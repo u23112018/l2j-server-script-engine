@@ -1,0 +1,28 @@
+# L2J Java Script Engine
+
+A JSR-223 implementation for Java.
+
+## Getting Started
+
+### Pre-requistites
+
+To build this project you will need [Java JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html) 10.0+ and [Maven](https://maven.apache.org/) 3.5+.
+
+### Build
+```
+$ mvn clean install
+```
+
+### Run tests
+```
+$ mvn test
+```
+
+### Versioning
+We use [SemVer](https://semver.org/) for versioning.
+
+### Auhtors
+Zoey76
+
+### License
+The project is under GPLv3, see [LICENSE](LICENSE) file.
